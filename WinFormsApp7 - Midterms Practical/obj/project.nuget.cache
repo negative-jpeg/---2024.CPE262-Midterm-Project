@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9CTeZQrrLjKdmYyFGesYL5ePS5jCv2qm+b/GRpZEwbUDNziQCQDbLf90XvFJCYoSsys4rqQlLtoM7BthlS9IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L23Y08W29\\Downloads\\Delgado_CPE262 Calculator Project\\bin\\WinFormsApp7 - Midterms Practical\\WinFormsApp7 - Midterms Practical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\L23Y08W29\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
